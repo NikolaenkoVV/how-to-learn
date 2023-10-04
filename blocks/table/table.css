@@ -1,0 +1,9 @@
+.table {  /* задаем ширину, отступы и порядок содержимого в блоке, настраиваем содержимое списка с заголовками и пояснением*/
+  width: 1100px;
+  margin: 0 auto;
+  padding: 0;
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}

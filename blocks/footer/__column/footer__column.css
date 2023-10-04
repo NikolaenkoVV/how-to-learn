@@ -1,0 +1,4 @@
+.footer__column { /*настраиваем поведение составляющих элемента через flex*/
+  display: flex;
+  flex-direction: column;
+}

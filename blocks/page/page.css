@@ -1,0 +1,9 @@
+.page {
+  /* ограничение по ширине */
+  min-width: 1100px;
+  max-width: 1600px;
+  /* обнулили отступы и отцентрировали контент */
+  margin: 0 auto;
+  /* задали шрифты */
+  font-family: 'Helvetica Neue', Arial, sans-serif;
+}

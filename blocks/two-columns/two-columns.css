@@ -1,0 +1,8 @@
+.two-columns {
+  /* распределяем по ширине блока two-columns дочерине блоки two-columns__brief two-columns__main-text*/
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  /* задаем ширину блока two-columns*/
+  width: 80%;
+}

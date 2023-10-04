@@ -1,0 +1,8 @@
+.kaufman { /*настраиваем отступы, цвет фона и позиционирование*/
+  margin: 0 auto;
+  background-color: #1f1f1f;
+  overflow: hidden;
+  padding-bottom: 90px;
+  padding-top: 90px;
+  position: relative;
+}

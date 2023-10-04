@@ -1,0 +1,9 @@
+.video__iframes {         /*  устанавливаем отступы элемента, выстраивание дочерних элементов */
+  margin: 0 auto;
+  column-gap: 20px;
+  display: flex;
+  justify-content: center;
+  position: relative;
+  top: 50px;
+  z-index: 1;
+}

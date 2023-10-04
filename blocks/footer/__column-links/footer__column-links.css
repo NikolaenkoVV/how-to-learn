@@ -1,0 +1,6 @@
+.footer__column-links { /*настраиваем отступы поведение составляющих*/
+  margin: 20px 0 16px 0;
+  display: flex;
+  flex-direction: column;
+  color: #fff;
+}

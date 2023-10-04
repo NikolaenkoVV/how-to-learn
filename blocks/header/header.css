@@ -1,0 +1,13 @@
+.header {
+  /* ограничения для секции */
+  height: 100vh;
+  min-height: 600px;
+  max-height: 756px;
+  /* цвет фона */
+  background-color: #f2f2f2;
+  /* сделали flex-элементом и выбрали выравнивание по вертикали, т.к. все отсальные элементы спозционированы абсолютно */
+  display: flex;
+  align-items: center;
+  position: relative;
+  overflow: hidden;
+}

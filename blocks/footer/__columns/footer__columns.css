@@ -1,0 +1,8 @@
+.footer__columns { /* настраиваем поведение составляющих элемента через flex, цветб размеры и отступы  */
+  width: 90%;
+  color:#fff;
+  display: flex;
+  justify-content: space-between;
+  margin: 0 auto;
+  min-height: 100%;
+}

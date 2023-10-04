@@ -1,0 +1,11 @@
+.two-columns__brief {
+  /* задаем ширину блока*/
+  width: 175px;
+  /* параметры строк и текста*/
+  line-height: 1.2;
+  font-size: 18px;
+  font-weight: normal;
+  color:#2f80ed;
+  /*обнуляем отступы*/
+  margin: 0;
+}

@@ -1,0 +1,5 @@
+.video__iframe {    /*  убираем границы у iframe-ов*/
+  width: 515px;
+  height: 316px;
+  border: none;
+}

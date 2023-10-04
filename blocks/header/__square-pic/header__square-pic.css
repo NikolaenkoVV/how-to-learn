@@ -1,0 +1,10 @@
+.header__square-pic {
+  /* ограничения для элемента и цвет фона */
+  height: 568px;
+  width: 568px;
+  background-color: #2f80ed;
+  /* спозционировали абсолютно и выставили отступ сверху */
+  position: absolute;
+  top: 64px;
+  right: 0;
+}

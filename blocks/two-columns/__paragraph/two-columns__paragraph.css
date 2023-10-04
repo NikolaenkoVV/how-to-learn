@@ -1,0 +1,10 @@
+.two-columns__paragraph {      /* :not(:first-child)  не сработал как надо, т.к. включились стандартные отступы параграфа*/
+  /*задаем отступ всем параграфам 30px*/
+  margin: 30px 0 0 0;
+  font-weight: normal;
+}
+
+.two-columns__paragraph:first-child {
+  /*убираем вехний отступ у первого параграфа псевдоклассом*/
+  margin-top: 0;
+}

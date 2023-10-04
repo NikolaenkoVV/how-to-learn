@@ -1,0 +1,8 @@
+.two-columns__main-text {
+  /* задаем ширину блока*/
+  width: 80%;
+  min-width: 784px;
+  /* параметры строк и текста*/
+  line-height: 34px;
+  font-size: 24px;
+}
